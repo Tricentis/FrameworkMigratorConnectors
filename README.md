@@ -5,9 +5,9 @@ This is a sample project to explain how to write Framework Migration Connector f
 Framework Migration Connectors contain Frameowrk specific migration mapping logic that are used to convert Framework artifacts to Tosca Business Objects.
 It uses the generic functionalities provided by TCMigrationAPI and packaged as a Tosca AddOn task (context menu task).
 
-**The Application under Test for the Sample Framework is the Vehicle Insurance Application provided by [Tricentis](http://www.tricentis.com/) and can be accessed [here](http://www.toscatrial.com/sampleapp/)
+**The Application under Test for the Sample Framework is the Vehicle Insurance Application provided by [Tricentis](http://www.tricentis.com/) and can be accessed [here](http://www.toscatrial.com/sampleapp/)**
 
-**The FrameworkMigratorConnector sample projects are built on Tosca Testsuite 10.0
+**The FrameworkMigratorConnector sample projects are built on Tosca Testsuite 10.0**
 
 ## How you can use it
 
